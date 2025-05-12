@@ -21,8 +21,8 @@ A Streamlit application for tracking and visualizing the emotional vibe of patie
 ## Installation 📥
 1. Clone the repository:
    ```bash
-   git clone https://github.com/qiaozhou-qz/Mochi_Health_Assignment.git
-   cd Mochi_Health_Assignment
+   git clone https://github.com/qiaozhou-qz/Mochi_Health_Mood_Log.git
+   cd Mochi_Health_Mood_Log
 2. Set Up a Virtual Environment
    ```bash
    python3 -m venv venv
